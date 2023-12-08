@@ -1,6 +1,6 @@
 site:
-  name: Ventists
-  site: 'https://ventists.com'
+  name: The Venturister
+  site: 'https://theventurister.com'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Ventists
-    template: '%s — Ventists'
+    default: The Venturister
+    template: '%s — The Venturister'
   description: "\U0001F680 Your place to go for all tech news and strategic venture."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Ventists
+    site_name: The Venturister
     images:
       - url: '~/assets/images/default.png'
         width: 1792
